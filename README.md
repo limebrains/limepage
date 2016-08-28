@@ -5,4 +5,4 @@ Home page for LimeBrains.com
 
 
 # development
-`python -m HttpWebServer`
+`python3 -m http.server`
